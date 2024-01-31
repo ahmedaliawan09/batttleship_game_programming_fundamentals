@@ -1,0 +1,17 @@
+Difficulty level : Medium
+
+    o   D   D   o   o   o   o   o   o   o   o    o    o    o    o    
+    o   o   o   o   o   o   o   o   o   o   o    o    o    o    o    
+    o   o   o   o   o   o   o   o   o   o   o    o    o    o    o    
+    o   o   o   o   o   o   o   o   o   o   o    o    o    o    o    
+    o   o   o   o   o   o   o   o   o   o   o    o    o    o    o    
+    o   o   o   o   o   o   C   C   C   o   o    o    o    o    o    
+    o   o   B   o   o   o   o   o   o   o   o    o    S    o    o    
+    o   o   B   o   o   o   o   o   o   o   o    o    S    o    o    
+    o   o   B   o   o   o   o   o   o   o   o    o    S    o    o    
+    o   o   B   o   o   A   A   A   A   A   o    o    o    o    o    
+    o   o   o   o   o   o   o   o   o   o   o    o    o    o    o    
+    o   o   o   o   o   o   o   o   o   o   o    o    o    o    o    
+    o   o   o   o   o   o   o   o   o   o   o    o    o    o    o    
+    o   o   o   o   o   o   o   o   o   o   o    o    o    o    o    
+    o   o   o   o   o   o   o   o   o   o   o    o    o    o    o    

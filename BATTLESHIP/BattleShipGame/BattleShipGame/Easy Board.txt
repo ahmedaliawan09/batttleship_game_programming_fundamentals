@@ -1,0 +1,12 @@
+Difficulty level : Easy
+
+    o   o   o   o   o   o   o   o   o   B   
+    o   o   C   o   o   o   o   o   o   B   
+    o   o   C   o   o   o   o   o   o   B   
+    o   o   C   A   o   o   o   o   o   B   
+    o   o   o   A   o   o   o   o   o   o   
+    o   o   o   A   o   o   o   o   o   o   
+    D   D   o   A   o   o   o   o   o   o   
+    S   S   S   A   o   o   o   o   o   o   
+    o   o   o   o   o   o   o   o   o   o   
+    o   o   o   o   o   o   o   o   o   o   
